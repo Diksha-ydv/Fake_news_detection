@@ -8,6 +8,7 @@ Fake News Detection using Machine Learning
 The project uses the Fake and Real News Dataset from Kaggle.
 -Fake.csv – Fake news articles
 -True.csv – Real news articles
+Due to GitHub file size limits, the dataset is not included in the repository. It can be downloaded directly from Kaggle using the provided code in the notebook.
 
 Each article contains:
 -Title
